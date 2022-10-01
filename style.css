@@ -1,0 +1,18 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+.str {
+    background-color: #FFFF66;
+}
+ul, ol {
+    margin-left: 30px;
+}
+.block {
+    background-color: #CC0033;
+}
